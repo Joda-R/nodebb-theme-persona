@@ -1,7 +1,7 @@
-Persona theme for NodeBB
+ØStudio's Persona-based theme for NodeBB
 ====================
 
-Persona is the new default theme for NodeBB as of v0.7.1
+Edits to Persona by ØStudio
 
 ## Addons
 
